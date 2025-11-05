@@ -50,7 +50,3 @@ Notes & next steps
 
 Contact
 If you want, tell me what tech stack you prefer for the backend database and I’ll extend the scaffold with data models, API endpoints, and more complete admin actions.
-
-
-# pantane
-Youth Empowerment Site
